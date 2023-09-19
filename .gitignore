@@ -2,6 +2,7 @@
 
 #skip json files
 *.json
+*.csv
 
 .DS_Store
 .AppleDouble
