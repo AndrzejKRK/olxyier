@@ -1,0 +1,9 @@
+scrapy
+scrapy-splash
+pandas
+seaborn
+scipy 
+sklearn 
+catboost 
+statsmodels
+scikit-learn
